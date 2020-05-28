@@ -54,15 +54,15 @@ people:
       url: #
 
 - name: Rodolfo Ferro
-  pic: robot.jpg
+  pic: rodo.png
   position: Lead developer
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://twitter.com/FerroRodolfo/
+    - title: instagram
+      url: https://www.instagram.com/rodo_ferro/
+    - title: github
+      url: https://github.com/RodolfoFerro/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
