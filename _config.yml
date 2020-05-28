@@ -1,0 +1,80 @@
+url: 
+baseurl: /
+
+# Site settings
+title: Quarantine HUB
+email: quarantine.hubmx@gmail.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+
+# Team names, titles and social links
+people:
+- name: José M. Mireles
+  pic: robot.jpg
+  position: Co-founder
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Denise López
+  pic: robot.jpg
+  position: Co-founder
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Javier Carrillo
+  pic: robot.jpg
+  position: Co-founder
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Gibrán Garibay
+  pic: robot.jpg
+  position: Co-founder
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Rodolfo Ferro
+  pic: robot.jpg
+  position: Lead developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/HubQuarantine
+  - title: facebook
+    url: https://www.facebook.com/Quarantine-HUB-100133491701774/
+  - title: youtube
+    url: https://www.youtube.com/channel/UCxag4nc2fy-kmjblIK47svg/
+  - title: github
+    url: http://github.com/QuarantineHUB
+
+# Build settings
+markdown: kramdown
+permalink: pretty
