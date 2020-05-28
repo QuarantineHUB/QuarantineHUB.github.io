@@ -8,20 +8,21 @@ description: "Write an awesome description for your new site here. You can edit 
 
 
 # Team names, titles and social links
+#stack-overflow
 people:
 - name: José M. Mireles
   pic: jm.jpeg
   position: Co-founder
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/JMireles_
     - title: facebook
       url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/josemirelesq/
 
 - name: Denise López
-  pic: robot.jpg
+  pic: deni.jpeg
   position: Co-founder
   social:
     - title: twitter
@@ -32,7 +33,7 @@ people:
       url: #
 
 - name: Javier Carrillo
-  pic: robot.jpg
+  pic: javi.jpeg
   position: Co-founder
   social:
     - title: twitter
@@ -43,7 +44,7 @@ people:
       url: #
 
 - name: Gibrán Garibay
-  pic: robot.jpg
+  pic: gibran.jpeg
   position: Co-founder
   social:
     - title: twitter
