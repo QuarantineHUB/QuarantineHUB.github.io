@@ -43,6 +43,17 @@ people:
     - title: google-plus
       url: #
 
+- name: Andrea Arredondo
+  pic: javi.jpeg
+  position: Community Lead
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
 - name: Gibrán Garibay
   pic: gibran.jpeg
   position: Co-founder
