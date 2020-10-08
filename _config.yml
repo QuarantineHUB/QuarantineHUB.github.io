@@ -11,7 +11,7 @@ description: "Write an awesome description for your new site here. You can edit 
 #stack-overflow
 people:
 - name: José M. Mireles
-  pic: jm.jpeg
+  pic: JM.png
   position: Co-founder
   social:
     - title: twitter
@@ -22,18 +22,18 @@ people:
       url: https://www.linkedin.com/in/josemirelesq/
 
 - name: Denise López
-  pic: deni.jpeg
+  pic: DENISE LOPEZ.png
   position: Co-founder
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/denise-l%C3%B3pez-garc%C3%ADa-944606129/
+    - title: github
+      url: https://github.com/Deni-ctrl
+    - title: instagram
+      url: https://www.instagram.com/denigarcia18/?hl=es-la
 
 - name: Javier Carrillo
-  pic: javi.jpeg
+  pic: JAVIER CARRILLO.png
   position: Co-founder
   social:
     - title: facebook
@@ -42,7 +42,7 @@ people:
       url: github.com/Javcm
 
 - name: Andrea Monserrat A.
-  pic: andrea.jpeg
+  pic: ANDREA ARREDONDO.png
   position: Community Lead
   social:
     - title: twitter
@@ -53,7 +53,7 @@ people:
       url: https://www.linkedin.com/in/andrea-monserrat/
 
 - name: Jennifer Baez
-  pic: jenni.jpeg
+  pic: JENNIFER BAEZ.png
   position: Community Lead
   social:
     - title: github
@@ -64,7 +64,7 @@ people:
       url: https://www.linkedin.com/in/jeniffer-abigail-martínez-baez-00a882187
 
 - name: Bryan David
-  pic: bryan.jpeg
+  pic: BRYAN JUAREZ.png
   position: Community Lead
   social:
     - title: twitter
@@ -75,7 +75,7 @@ people:
       url: https://www.linkedin.com/in/bryan-david-ju%C3%A1rez-hern%C3%A1ndez-a90421110/
 
 - name: Rafael Ortega Ramírez
-  pic: gibran.jpeg
+  pic: RAFA ORTEGA.png
   position: Co-founder
   social:
     - title: github
