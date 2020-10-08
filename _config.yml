@@ -36,12 +36,10 @@ people:
   pic: javi.jpeg
   position: Co-founder
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: www.facebook.com/xoloitzcuintle.wemol
+    - title: github
+      url: github.com/Javcm
 
 - name: Andrea Monserrat A.
   pic: andrea.jpeg
@@ -53,6 +51,28 @@ people:
       url: https://github.com/Andrea-Monserrat
     - title: linkedin
       url: https://www.linkedin.com/in/andrea-monserrat/
+
+- name: Jennifer Baez
+  pic: jenni.jpeg
+  position: Community Lead
+  social:
+    - title: github
+      url:  https://github.com/baezjeniffer
+    - title: instagram
+      url: https://www.instagram.com/jenny_ffera/
+    - title: linkedin
+      url: https://www.linkedin.com/in/jeniffer-abigail-martínez-baez-00a882187
+
+- name: Bryan David
+  pic: bryan.jpeg
+  position: Community Lead
+  social:
+    - title: twitter
+      url: https://twitter.com/BryanDavjk
+    - title: github
+      url: https://github.com/BDavidJH
+    - title: linkedin
+      url: https://www.linkedin.com/in/bryan-david-ju%C3%A1rez-hern%C3%A1ndez-a90421110/
 
 - name: Gibrán Garibay
   pic: gibran.jpeg
