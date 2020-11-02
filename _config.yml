@@ -85,6 +85,15 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/rafaelortegar/
       
+- name: Bruno Camacho
+  pic: BRUNO CAMACHO .png
+  position: Community Lead
+  social:
+    - title: facebook
+      url: https://www.facebook.com/char.camachordz
+    - title: linkedin
+      url: https://www.linkedin.com/in/brunocamachordz/
+      
 - name: Gibrán Garibay
   pic: GIBRAN FREGOSO.png
   position: Co-founder
