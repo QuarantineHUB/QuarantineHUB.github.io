@@ -7,5 +7,5 @@ color:
 
 # Font Families
 font:
-  primary: '"Roboto Condensed", "Cabin",Helvetica,Arial,sans-serif'
-  secondary: '"Orbitron", "Cabin", Helvetica,Arial,sans-serif'
+  primary: '"Roboto Condensed", "Cabin",Cabin,Arial,sans-serif'
+  secondary: '"Orbitron", "Cabin", Cabin,Arial,sans-serif'
